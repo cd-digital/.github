@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://cd-digital.agxm.fun">
-    <img width="100" src="https://cd-digital.agxm.fun/_nuxt/CD-Digital-LOGO.CKnmKZZ6.png">
+    <img width="100" src="https://cd-digital.agxm.fun/_nuxt/logo.CKnmKZZ6.png">
   </a>
 </p>
 
